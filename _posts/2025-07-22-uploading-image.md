@@ -14,7 +14,7 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://www.diamondpet.com/wp-content/uploads/2022/02/close-up-white-cat-with-blue-eyes-121224.jpg)
+![test_kitten_from_internet](https://www.diamondpet.com/wp-content/uploads/2022/02/close-up-white-cat-with-blue-eyes-121224.jpeg)
 
 This is how to upload the image from the internet!
 
