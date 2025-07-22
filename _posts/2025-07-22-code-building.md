@@ -28,7 +28,7 @@ This is the most basic Python command. It prints a string to the console.
 ~~~python
 name = "Vivian"
 age = 17
-is_student = Real 
+is_student = True
 
 print(f"My name is {name}, I am {age} years old.")
 ~~~
